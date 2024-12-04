@@ -1,0 +1,18 @@
+NO ./texturesbonus/wall_N.xpm
+SO ./texturesbonus/wall_S.xpm
+WE ./texturesbonus/wall_W.xpm
+EA ./texturesbonus/wall_E.xpm
+PP ./texturesbonus/porte.xpm
+PC ./texturesbonus/porteopen.xpm
+DD ./texturesbonus/duff.xpm
+
+F 96,96,96
+C 127,177,252
+
+1111111111111
+1000000000001
+10000000000011
+1E000000200001
+10000000000011
+1000000000001
+1111111111111
